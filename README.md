@@ -19,7 +19,7 @@ I'm a passionate developer who loves exploring new technologies and creating inn
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+> "愛しき君となら永遠と呼ぼう" - Cory House
 
 ⭐️ From [XingDiao1337](https://github.com/XingDiao1337)
 
