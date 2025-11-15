@@ -5,7 +5,7 @@
 # Hi there! 👋 I'm XingDiao1337
 
 ## About Me
-I'm a passionate developer who loves exploring new technologies and creating innovative solutions. My interests span across multiple domains in software development, from web technologies to system architecture.
+As you can see, what I'm writing is shit, but what can I do about it.
 
 ## ❤️ Technologies ❤️
 - **Languages:** Java, Lua, JavaScript
