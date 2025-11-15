@@ -1,6 +1,6 @@
 <div align="center">
   
-![Background Image](https://raw.githubusercontent.com/XingDiao1337/XingDiao1337/main/bg/bg.png)
+![Background Image](https://github.com/XingDiao1337/XingDiao1337/blob/main/bg/bg.png?raw=true)
 
 # Hi there! 👋 I'm XingDiao1337
 
