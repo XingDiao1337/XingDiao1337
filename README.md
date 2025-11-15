@@ -11,7 +11,6 @@ I'm a passionate developer who loves exploring new technologies and creating inn
 - **Languages:** Java, Lua, JavaScript
 
 ## ❤️ GitHub Stats ❤️
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XingDiao1337&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XingDiao1337&layout=compact&theme=dark)
 
 ## ❤️ Let's Connect ❤️
