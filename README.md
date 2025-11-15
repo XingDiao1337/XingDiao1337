@@ -1,5 +1,7 @@
 <div align="center">
   
+![Background Image](https://raw.githubusercontent.com/XingDiao1337/XingDiao1337/main/bg/bg.png)
+
 # Hi there! 👋 I'm XingDiao1337
 
 ## About Me
@@ -15,7 +17,6 @@ I'm a passionate developer who loves exploring new technologies and creating inn
 ## ❤️ Let's Connect ❤️
 - [GitHub](https://github.com/XingDiao1337)
 - [BiliBili](https://space.bilibili.com/513309823) <!-- Update with your actual LinkedIn profile -->
-
 
 ---
 
