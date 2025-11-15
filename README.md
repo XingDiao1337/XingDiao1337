@@ -19,7 +19,7 @@ As you can see, what I'm writing is shit, but what can I do about it.
 
 ---
 
-> "愛しき君となら永遠と呼ぼう" - Cory House
+> "愛しき君となら永遠と呼ぼう" - 刹那の誓い(feat.由崎司)
 
 ⭐️ From [XingDiao1337](https://github.com/XingDiao1337)
 
